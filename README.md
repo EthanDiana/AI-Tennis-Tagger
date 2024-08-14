@@ -6,19 +6,6 @@ This project aims to adapt existing open-source software, originally designed fo
 This is an ongoing project, and we are actively working on developing and refining the software. While the project is still in progress, a demonstration video of the current functionality is available in this repository.
 
 # Contributors
-This project is a collaborative effort with the following team members:
+This project is a collaborative effort with the following:
 
-Leo Cardozo
-Alexis Adzich
-Alex West
-Brian Dinh
-Cameron Yeh
-Divik Chotani
-Frederick Zhang
-Ida Leeva
-Rit Agarwal
-Rushil Shah
-Shishi Hu
-Shubhany Agarwal
-Tony Jeon
-Vivian Yee
+Leo Cardozo, Alexis Adzich, Alex West, Divik Chotani, Ida Leeva, Rit Agarwal, Rushil Shah, Tony Jeon, Vivian Yee
