@@ -5,7 +5,7 @@ This project aims to adapt existing open-source software, originally designed fo
 
 This is an ongoing project, and we are actively working on developing and refining the software. While the project is still in progress, a demonstration video of the current functionality is available in this repository.
 
-Contributors
+# Contributors
 This project is a collaborative effort with the following team members:
 
 Leo Cardozo
